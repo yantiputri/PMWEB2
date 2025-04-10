@@ -2,25 +2,25 @@
 require_once 'class_nilaimahasiswa.php';
 
 $mhs1 = new NilaiMahasiswa();
-    $mhs1->nama = "Budi Rahman";
+    $mhs1->nama = "Yanti Elnaya";
     $mhs1->matakuliah = "Pemrograman Web";
-    $mhs1->nilai_uts = 80;
-    $mhs1->nilai_uas = 85;  
-    $mhs1->nilai_tugas = 78;
+    $mhs1->nilai_uts = 90;
+    $mhs1->nilai_uas = 89;  
+    $mhs1->nilai_tugas = 95;
 
     $mhs2 = new NilaiMahasiswa();
-    $mhs2->nama = "Adilla Putri";
+    $mhs2->nama = "Faradilla";
     $mhs2->matakuliah = "Dasar-Dasar Pemrograman";
-    $mhs2->nilai_uts = 80;
-    $mhs2->nilai_uas = 85;  
-    $mhs2->nilai_tugas = 90;
+    $mhs2->nilai_uts = 84;
+    $mhs2->nilai_uas = 80;  
+    $mhs2->nilai_tugas = 93;
 
     $mhs3 = new NilaiMahasiswa();
-    $mhs3->nama = "Bedu Bahlil";
+    $mhs3->nama = "Anatasya";
     $mhs3->matakuliah = "Tugas Akhir";
-    $mhs3->nilai_uts = 50;
-    $mhs3->nilai_uas = 49;  
-    $mhs3->nilai_tugas = 60;
+    $mhs3->nilai_uts = 60;
+    $mhs3->nilai_uas = 50;  
+    $mhs3->nilai_tugas = 64;
 
 $ar_mahasiswa = [$mhs1, $mhs2, $mhs3];
 

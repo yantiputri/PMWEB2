@@ -20,7 +20,7 @@
     'WEB2' => 'Pemrograman Web 2',
     'BASDAT' => 'Basis Data',
     'UI/UX' => 'UI/UX',
-    'JARKOM' => 'Jaringan Komputer',
+    'JK' => 'Jaringan Komputer',
    ];
 ?>
 
